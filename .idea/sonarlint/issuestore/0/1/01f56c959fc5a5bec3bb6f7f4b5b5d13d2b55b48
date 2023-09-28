@@ -1,0 +1,12 @@
+
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®é…”ÿÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®é…”ÿÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®é…”ÿÿÿÿÿ
+h
+java:S2786"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(á”šã
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(á”šã
+O
+java:S1128"9Remove this unused import 'jakarta.persistence.Temporal'.(×Ø’¯
+S
+java:S1128"=Remove this unused import 'jakarta.persistence.TemporalType'.(»§ß¨

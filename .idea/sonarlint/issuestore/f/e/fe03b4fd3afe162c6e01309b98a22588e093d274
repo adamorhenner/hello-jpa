@@ -1,0 +1,8 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(Œ„ÂÓ8† ğ­1
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(Î†…¼8ˆ ğ­1
+X	java:S125("<This block of commented-out lines of code should be removed.(Çµí‘8‰ ğ­1
+`
+java:S1128">Remove this unused import 'main.persistence.AuthorRepository'.(ùò˜¯øÿÿÿÿ8Š ğ­1
+U
+java:S1128"8Remove this unused import 'java.util.GregorianCalendar'.(€û½8Š ğ­1
